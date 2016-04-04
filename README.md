@@ -46,15 +46,15 @@ for ques in queslist:
 
 #### Output
 
-```python
+```
 Define metamorphosis	UNKNOWN
-What was the date of the match?	WHEN
-Did John enjoy the match?	Affirmation
-Who invented electricity?	WHO
-Did you hear John's decided to go to business school?	Affirmation
+What was the date of the match ?	WHEN
+Did John enjoy the match ?	Affirmation
+Who invented electricity ?	WHO
+Did you hear John's decided to go to business school ?	Affirmation
 Explain centrifugal force	UNKNOWN
-What is the name of the god of water?	WHAT
-Is it dry outside?	Affirmation
+What is the name of the god of water ?	WHAT
+Is it dry outside ?	Affirmation
 ```
 
 ## Training Your Own Classifier
